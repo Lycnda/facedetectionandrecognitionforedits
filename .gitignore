@@ -132,3 +132,4 @@ dmypy.json
 *.csv
 *.mp4
 /data
+/inputvideos
