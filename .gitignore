@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # data files
-.csv
-.mp4
+*.csv
+*.mp4
 /data
